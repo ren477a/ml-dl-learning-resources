@@ -26,3 +26,9 @@ Some useful links for Machine Learning and Deep Learning newbies.
 ## IRIS
 ### TFLearn Quickstart
 #### https://www.tensorflow.org/get_started/tflearn
+
+
+## Algorithms
+
+### Naive Bayes
+#### https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/
