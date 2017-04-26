@@ -1,4 +1,4 @@
-# ML && DL Resources
+# ML & DL Resources
 
 Some useful links for Machine Learning and Deep Learning newbies.
 
