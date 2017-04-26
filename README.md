@@ -1,4 +1,7 @@
-# ML Resources
+# ML && DL Resources
+
+### How to implement a neural network?
+#### http://peterroelants.github.io/
 
 ## MNIST
 
