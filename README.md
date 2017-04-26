@@ -1,5 +1,10 @@
 # ML && DL Resources
 
+Some useful links for Machine Learning and Deep Learning newbies.
+
+### Machine Learning is Fun! The world’s easiest introduction to Machine Learning
+#### https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471
+
 ### How to implement a neural network?
 #### http://peterroelants.github.io/
 
