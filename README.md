@@ -32,3 +32,6 @@ Some useful links for Machine Learning and Deep Learning newbies.
 
 ### Naive Bayes
 #### https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/
+
+## Podcasts
+#### https://medium.com/startup-grind/the-10-best-ai-data-science-and-machine-learning-podcasts-d7495cfb127c
