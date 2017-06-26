@@ -35,3 +35,8 @@ Some useful links for Machine Learning and Deep Learning newbies.
 
 ## Podcasts
 #### https://medium.com/startup-grind/the-10-best-ai-data-science-and-machine-learning-podcasts-d7495cfb127c
+
+
+## Papers
+### ShortScience.org - Making Science Accessible!
+#### http://www.shortscience.org/
